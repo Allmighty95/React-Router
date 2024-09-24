@@ -1,0 +1,21 @@
+/* src/styles/UserProfile.module.css */
+.profile {
+    background-color: #e2e3e5;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #198754;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #157347;
+  }
+  
